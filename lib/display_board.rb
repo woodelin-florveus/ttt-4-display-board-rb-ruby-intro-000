@@ -11,5 +11,6 @@ def display_board(board)
   puts "#{board[6]} #{separator} #{board[7]} #{separator} #{board[8]}"
 end
 
-  board = ["o", " x", " ", " ", "x ", " ", " x", " o", " "]
+  # board = ["o", " x", " ", " ", "x ", " ", " x", " o", " "]
+  board = [" "," "," "," "," "," "," "," "," "]
 display_board(board)
