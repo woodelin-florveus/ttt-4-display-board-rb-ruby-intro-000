@@ -12,5 +12,5 @@ def display_board(board)
 end
 
   # board = ["o", " x", " ", " ", "x ", " ", " x", " o", " "]
-  board = [" "," "," "," "," "," "," "," "," "]
+  board = ["X", "X", "X", " ", " ", " ", " ", " ", " "]
 display_board(board)
